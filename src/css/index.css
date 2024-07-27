@@ -1,0 +1,7 @@
+.box{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    background: url('../images/bg.jpg');
+    background-size: cover;
+}
