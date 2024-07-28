@@ -1,10 +1,10 @@
-# webpackConfig
+# webpackConfig - base
 
 a webpackConfig record
 
 #参考 [webpack-配置](https://www.webpackjs.com/configuration/),[webpack-Loaders](https://www.webpackjs.com/loaders//),[webpack-Plugins](https://www.webpackjs.com/plugins/)
 
-### run
+### install
 ```
 $ git clone https://github.com/DC911360/webpackConfig.git
 $ npm install 
